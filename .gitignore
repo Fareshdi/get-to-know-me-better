@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>get to know me baetter</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero amet distinctio consequatur impedit laborum excepturi dolorum, laboriosam odit vitae, modi optio consectetur. Eaque quisquam eveniet praesentium doloremque distinctio, explicabo aspernatur!</p>
+    <br>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero amet distinctio consequatur impedit laborum excepturi dolorum, laboriosam odit vitae, modi optio consectetur. Eaque quisquam eveniet praesentium doloremque distinctio, explicabo aspernatur!</p>
+   <br>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero amet distinctio consequatur impedit laborum excepturi dolorum, laboriosam odit vitae, modi optio consectetur. Eaque quisquam eveniet praesentium doloremque distinctio, explicabo aspernatur!</p>
+   
+    <a href="https://www.instagram.com/bermon_hdi/" target=_self title="this takes u to my ig account">
+        <h1>check me out here</h1>
+
+    </a>
+</body>
